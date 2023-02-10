@@ -4,4 +4,4 @@ Pillow
 requests
 tqdm
 open_clip_torch
-blip-vit
+blip-vit @ git+https://github.com/sssemil/BLIP.git
